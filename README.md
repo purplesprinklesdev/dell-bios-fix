@@ -47,6 +47,8 @@ sudo dpkg -i command-configure_5.1.0-6.ubuntu24_amd64.deb
 
 ### Using the Program
 
+Here's a [Manual](https://dl.dell.com/topicspdf/command-configure_users-guide4_en-us.pdf) I found for this program, which may or may not be useful, since it's for the Windows GUI version.
+
 First, ensure the software is installed correctly by running:
 
 `sudo /opt/dell/dcc/cctk`
