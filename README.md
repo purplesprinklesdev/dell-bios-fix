@@ -41,8 +41,8 @@ Next, extract with tar and you should see two .deb packages and their respective
 
 Install them with dpkg: (`srvadmin-hapi` first)
 ```
-sudo dpkg -i srvadmin-hapi_9.5.0_amd64.deb;
-sudo dpkg -i command-configure_5.1.0-6.ubuntu24_amd64.deb
+sudo dpkg -i ./srvadmin-hapi_9.5.0_amd64.deb;
+sudo dpkg -i ./command-configure_5.1.0-6.ubuntu24_amd64.deb
 ```
 
 ### Using the Program
